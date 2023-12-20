@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# shoesShop_react
+Ce projet est une application e-commerce basic faite avec Reactjs. Il m'a permi d'utiliser de nombreux concepts de react comme les componets, les  usestates, les props etc... 
+>>>>>>> cf79c6af3d1c0e0f4213958b9a59c5a29a62809b
